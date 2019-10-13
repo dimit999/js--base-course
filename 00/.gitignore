@@ -59,3 +59,12 @@ typings/
 
 # next.js build output
 .next
+
+.DS_Store
+.idea/
+.vscode/
+build/
+dist/
+node_modules/
+npm-debug.log
+Thumbs.db
