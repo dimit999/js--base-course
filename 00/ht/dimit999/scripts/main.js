@@ -4,11 +4,11 @@ let name;
 let age;
 
 do {
-    name = prompt("What is your name?");
+    name = prompt('What is your name?');
   } while (name == '' || name == null);
 
 do {
-    age = prompt("How old are you?");
+    age = prompt('How old are you?');
 } while (age == '' || age == null);
 
 if (age < 18) {
